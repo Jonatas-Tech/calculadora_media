@@ -19,26 +19,19 @@
 - **HTML5**
 - **CSS3**
 - **JavaScript**
- ## 📷 Imagens do projeto
+## 📷 Imagens do Projeto
 
-### Página inicial para informar a afirmação:
+### Tela principal
 <p align="center">
-  <a href="https://drive.google.com/thumbnail?id=1OHk8rCqvzykVHjiuR8zXPm1y1BwY75zD">
-    <img src="https://drive.google.com/thumbnail?id=1OHk8rCqvzykVHjiuR8zXPm1y1BwY75zD" alt="Página inicial com cardápio" width="800">
-  </a>
+  <img src="https://drive.google.com/uc?export=view&id=1OHk8rCqvzykVHjiuR8zXPm1y1BwY75zD" width="800">
 </p>
 
-
-### Cards contendo as afirmações enganosas ou fakes:
+### Resultado após cálculo
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/fcd49591-a96e-4e07-bbab-c5a734981220">
-    <img src="https://drive.google.com/uc?export=view&id=1qU2cBXaG0i6UfhwkMbp-FRXcuZLW_jPj" alt="Página inicial para informar a afirmação" width="800">
-  </a>
+  <img src="https://drive.google.com/uc?export=view&id=1qU2cBXaG0i6UfhwkMbp-FRXcuZLW_jPj" width="800">
 </p>
 
-
-
-> (As imagens são prints reais do funcionamento do site)
+> Imagens reais do funcionamento do sistema
   
 ## ✉️ Contato
 
