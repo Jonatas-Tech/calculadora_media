@@ -18,5 +18,3 @@ else {
 }
     document.getElementById("resultado").innerHTML = "<strong>"+"Média: " + media.toFixed(2) + "</strong>"+ "<br>"   + situação ;
 }
-document.getElementById("listaTarefas").innerHTML += "<strong>" + tarefaInput + "</strong><br>";
-    document.getElementById("listaTarefas").style.background = "#4338ca";
