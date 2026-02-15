@@ -12,7 +12,7 @@
 - ❌ Reprovado
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online](https://verifica-five.vercel.app/)**
+**[Ver Projeto Online](https://jonatas-tech.github.io/calculadora_media/)**
   
 
 ## 💠 Tecnologias utilizadas
