@@ -28,7 +28,7 @@
 
 ### Resultado após cálculo
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1qU2cBXaG0i6UfhwkMbp-FRXcuZLW_jPj" width="800">
+  <img src="https://drive.google.com/uc?export=view&id=16y7AEczVS7B6Toh5N0JFrBB_B7qxbCeH" width="1000">
 </p>
 
 > Imagens reais do funcionamento do sistema
